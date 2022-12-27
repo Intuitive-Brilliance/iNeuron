@@ -21,7 +21,7 @@
 <h3 align="center">Credit Card Defaulter Forecasting</h3>
 
   <p align="center">
-     Complete end-to-end application comprising of Validation, Preprocessing, Training, and Prediction pipelines to extract the data, preprocess it, and train a model to determine if the customer will default on their credit card payment for the next month.
+     A Webapp built on Flask webframework to predict if a customer will default on their next months payment.
     <br />
 <!--<a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -46,15 +46,24 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li><a href="#about-dataset">About Dataset</a></li>
+      </ul>
+    </li>
+    <li><a href="#technical-aspect">Technical Aspect</a></li>
+      </ul>
+    </li>
+    <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-<!--         <li><a href="#installation">Installation</a></li> --->
+        <li><a href="#installation">Installation</a></li>
+         <li><a href="#directory-tree">Directory Tree</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#credits">Credits</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -73,7 +82,7 @@ Banks provide loans and credit cards to their customers, allowing them to make p
 
 This can be achieved by using machine learning algorithms to identify potential defaulters before they default. By analyzing the financial history and behavior of credit card users, banks can develop predictive models that can identify customers who are at high risk of defaulting on their payments. Once potential defaulters are identified, banks can take steps to mitigate the risk of default, such as by requiring these customers to provide additional collateral or by imposing stricter limits on their credit card usage. By taking these measures, banks can protect their profitability and maintain the trust of their investors and stakeholders.
 
-## Dataset Information
+## About Dataset
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in _Taiwan from April 2005 to September 2005_.
 
 ## Technical Aspect
@@ -168,49 +177,6 @@ Initially the model has to be trained using the sample data or your own data bef
 <!---_For more examples, please refer to the [Documentation](https://example.com)_--->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Validation Pipeline
-  - [ ] Load the data from Databases
-  - [ ] Varify the following parameters:
-   - [ ] Number of files
-   - [ ] Filename
-   - [ ] Number of columns
-   - [ ] Column name
-   - [ ] Datatype of the columns   
-- [ ] Preprocessing Pipeline
-  - [ ] Split the data into feature and label
-  - [ ] Check for multicollinearity and remove such features
-  - [ ] Remove non significant features
-  - [ ] Incorporate significant features
-  - [ ] Check for 0 STD columns
-  - [ ] Impute null values
-  - [ ] Transform/ Replace/ Remove unrecognizable data
-  - [ ] Standard scaling
-  - [ ] Normal distribution transformation
-  - [ ] Upscaling/ Downscaling
-  - [ ] Encode categorical values
-  - [ ] Impute categorical values
-- [ ] Training Pipeline
-  - [ ]  Create clusters
-  - [ ]  Filter based on cluster
-  - [ ]  Train each cluster with numerous ML Algorithms
-  - [ ]  Find best algorithm
-  - [ ]  Save the best algorithm for each cluster
-- [ ] Prediction Pipeline
-  - [ ] Validation Piepline
-  - [ ] Preprocessing Pipeline
-  - [ ] Load clustering model
-  - [ ] Classify the datapoints to their clusters
-  - [ ] Filter based on cluster
-  - [ ] Load corresponding model
-  - [ ] Predict label
-  - [ ] Export predictions 
-
 
 <!---See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).--->
 
