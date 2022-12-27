@@ -43,13 +43,13 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
     <li><a href="#about-dataset">About Dataset</a></li>
       </ul>
     </li>
     <li><a href="#technical-aspect">Technical Aspect</a></li>
+      </ul>
+    </li>
+         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
       </ul>
@@ -87,24 +87,24 @@ This dataset contains information on default payments, demographic factors, cred
 ## Technical Aspect
 The project was built in two phases and the process is as follows:
 1. Process Phase:
-  - Importing Libraries.
-  - Loading Dataset.
-  - Performing Data Analysis
-  - Feature Engineering
-  - Data Pre-processing
-  - Model Selection
-  - Model Trainig
-  - Model Evalution
-  - Model Saving
+    - Importing Libraries.
+    - Loading Dataset.
+    - Performing Data Analysis
+    - Feature Engineering
+    - Data Pre-processing
+    - Model Selection
+    - Model Trainig
+    - Model Evalution
+    - Model Saving
    
 2. Deployment Phase:
-  - Run the application built using flask webframework.
-  - Load Model
-  - Render HTML frontend
-  - Receive Input
-  - Data Preprocessing
-  - Prediction
-  - Display Results.
+    - Run the application built using flask webframework.
+    - Load Model
+    - Render HTML frontend
+    - Receive Input
+    - Data Preprocessing
+    - Prediction
+    - Display Results.
 
 Try again
 
@@ -112,7 +112,7 @@ Try again
 
 
 
-### Built With
+## Built With
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
