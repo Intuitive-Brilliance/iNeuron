@@ -52,7 +52,6 @@
     <li><a href="#technical-aspect">Technical Aspect</a></li>
       </ul>
     </li>
-    <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
