@@ -74,9 +74,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+<div align="center">
+  <a href="[https://github.com/Intuitive-Brilliance/Megatron-ChatBot](https://github.com/Intuitive-Brilliance/Megatron-ChatBot)">
+    <img src="https://user-images.githubusercontent.com/88573121/209650547-d3278892-78cf-4aa8-ad50-c8b8ddadef10.png" alt="Logo" width="256" height="216">
+    <img src="https://user-images.githubusercontent.com/88573121/209650519-657081f2-1966-4b7a-9a65-e89df52d29b3.png" alt="Logo" width="278" height="216">
+    <img src="https://user-images.githubusercontent.com/88573121/209650563-ca3c66ba-c182-4df7-820c-7b1e61d7cc5e.png" alt="Logo" width="256" height="216">
+  </a>
+</div>
 Banks provide loans and credit cards to their customers, allowing them to make purchases and pay later. However, an increasing number of credit card users are defaulting on their payments, which poses problems for banks in terms of profitability and trust from investors and stakeholders. One solution to this problem is to identify potential credit card defaulters ahead of time and implement measures to mitigate the risk of default.
 
 This can be achieved by using machine learning algorithms to identify potential defaulters before they default. By analyzing the financial history and behavior of credit card users, banks can develop predictive models that can identify customers who are at high risk of defaulting on their payments. Once potential defaulters are identified, banks can take steps to mitigate the risk of default, such as by requiring these customers to provide additional collateral or by imposing stricter limits on their credit card usage. By taking these measures, banks can protect their profitability and maintain the trust of their investors and stakeholders.
@@ -105,8 +109,6 @@ The project was built in two phases and the process is as follows:
     - Data Preprocessing
     - Prediction
     - Display Results.
-
-Try again
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -178,8 +180,6 @@ Initially the model has to be trained using the sample data or your own data bef
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!---See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).--->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CREDITS  -->
 ## Credits
