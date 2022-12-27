@@ -77,7 +77,7 @@
 <div align="center">
   <a href="[https://github.com/Intuitive-Brilliance/Megatron-ChatBot](https://github.com/Intuitive-Brilliance/Megatron-ChatBot)">
     <img src="https://user-images.githubusercontent.com/88573121/209650547-d3278892-78cf-4aa8-ad50-c8b8ddadef10.png" alt="Logo" width="256" height="216">
-    <img src="https://user-images.githubusercontent.com/88573121/209650519-657081f2-1966-4b7a-9a65-e89df52d29b3.png" alt="Logo" width="278" height="216">
+    <img src="https://user-images.githubusercontent.com/88573121/209650519-657081f2-1966-4b7a-9a65-e89df52d29b3.png" alt="Logo" width="294" height="216">
     <img src="https://user-images.githubusercontent.com/88573121/209650563-ca3c66ba-c182-4df7-820c-7b1e61d7cc5e.png" alt="Logo" width="256" height="216">
   </a>
 </div>
